@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.columna {
+    width: 33%; 
+    float: left;
+    padding: 10px;
+}
